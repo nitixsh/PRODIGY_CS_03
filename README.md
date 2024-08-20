@@ -55,12 +55,12 @@ pip install ttkbootstrap
 
 Follow these steps to set up the Password Complexity Checker on your local machine.
 
-### 1. Clone the Repository
+### Clone the Repository
 
 First, clone the repository from GitHub to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/password-complexity-checker.git
+https://github.com/nitixsh/PRODIGY_CS_03.git
 ```
 
 
